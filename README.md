@@ -25,7 +25,7 @@ Welcome to my GitHub profile! My name is Prince Saxena, and I'm an aspiring deve
 
 - LinkedIn: [Prince Saxena](https://linkedin.com/in/princesaxena)
 - Twitter: [@MrPrinceSaxena](https://twitter.com/MrPrinceSaxena)
-- Email: prince.saxena@example.com
+
 
 ## 💬 Ask Me About
 
