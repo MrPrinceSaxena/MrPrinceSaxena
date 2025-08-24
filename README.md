@@ -1,4 +1,4 @@
-# Hi there 👋, I'm MrPrinceSaxena
+# Hi there 👋, I'm Mr Prince Saxena
 
 Welcome to my GitHub profile! My name is Prince Saxena, and I'm an aspiring developer, currently in my 2nd year of college, preparing for the best opportunities ahead. Here you'll find my projects, code snippets, and progress as I learn and grow.
 
