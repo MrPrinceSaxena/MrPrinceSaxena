@@ -13,7 +13,7 @@
 I’m a B.Tech CSE AI ML student , diving into everything tech-related from crafting sleek web apps to wrestling with data structures. Fueled by curiosity and a zest for learning (not by coffee).
 
 
-- 📧 Get in touch: **gunjanbhanwal21@gmail.com**
+- 📧 Get in touch: **princesaxena511@gmail.com**
 - ⚡ And when I’m not coding, you’ll probably find me binge-watching , the best debugging instincts come from plot twists!
 
 ### 🌍 Tools and Technologies 
